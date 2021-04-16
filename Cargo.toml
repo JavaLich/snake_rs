@@ -1,5 +1,5 @@
 [package]
-name = "sola_rs"
+name = "snake"
 version = "0.1.0"
 authors = ["JavaLich <javalich@outlook.com>"]
 edition = "2018"
@@ -7,4 +7,5 @@ edition = "2018"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-bevy = "0.4"
+bevy = "0.5.0"
+rand = "0.7.3"
